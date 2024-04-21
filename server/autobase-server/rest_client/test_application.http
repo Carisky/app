@@ -1,0 +1,13 @@
+GET http://localhost:8080/Destinations/
+Accept: application/json
+Authorization: Basic dXNlcjE6dXNlcjFfcGFzc3dvcmQ=
+
+###
+GET http://localhost:8080/CargoTypes/
+Accept: application/json
+Authorization: Basic dXNlcjE6dXNlcjFfcGFzc3dvcmQ=
+
+###
+GET http://localhost:8080/Login/
+Accept: application/json
+Authorization: Basic dXNlcjE6dXNlcjFfcGFzc3dvcmQ=
